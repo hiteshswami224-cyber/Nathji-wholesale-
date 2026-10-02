@@ -1,0 +1,8 @@
+{
+  "name": "Remix NATHJI WHOLESALE",
+  "description": "B2B wholesale e-commerce for retail businesses with tiered bulk pricing, real-time inventory management, stock replenishment, and instant invoice generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
